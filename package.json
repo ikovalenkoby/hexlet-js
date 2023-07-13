@@ -1,0 +1,20 @@
+{
+  "name": "stydiung-npm",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikovalenkoby/hexlet-js.git"
+  },
+  "author": "I Kovalenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikovalenkoby/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/ikovalenkoby/hexlet-js#readme"
+}
